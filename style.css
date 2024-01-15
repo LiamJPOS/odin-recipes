@@ -1,0 +1,35 @@
+body {
+    font-family: "Verdana", sans-serif;
+    background-color: rgb(233, 235, 236);
+}
+
+h1 {
+    color: white;
+    background-color: rgb(206, 147, 37);
+    text-align: center;
+    font-size: 50px;
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    color: rgb(206, 147, 37)
+}
+
+img {
+    display: block;
+    margin:auto;
+}
+
+#recipe-container {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    /* list-style-position: inside; */
+}
+
+#recipe-container > ul {
+    display: inline-block
+}
+
+
+
