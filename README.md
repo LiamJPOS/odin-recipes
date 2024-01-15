@@ -11,8 +11,8 @@ This project is a recipe website that I've created as part of my journey to soli
 <!-- Responsive Design: The website is designed to be accessible on various devices, ensuring a seamless experience for users on both desktop and mobile. -->
 
 ## Technologies Used
-HTML
-CSS
+- HTML
+- CSS
 
 ## How to Use
 1. Clone the Repository
