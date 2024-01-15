@@ -12,7 +12,7 @@ This project is a recipe website that I've created as part of my journey to soli
 
 ## Technologies Used
 HTML
-<!-- CSS -->
+CSS
 
 ## How to Use
 1. Clone the Repository
