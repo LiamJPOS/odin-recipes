@@ -21,4 +21,4 @@ CSS
     - Open the index.html file in your preferred browser.
 3. Explore and Learn:
     - Browse through different recipes.
-    - Experiment with the HTML code to understand its structure and how changes impact the website.
+    - Experiment with the HTML and CSS code to understand its structure and how changes impact the website.
